@@ -1,0 +1,6 @@
+[submodule "destroyed-presence-api"]
+	path = destroyed-presence-api
+	url = https://github.com/DestroyedPresence/destroyed-presence-api.git
+[submodule "destroyed-presence-web"]
+	path = destroyed-presence-web
+	url = https://github.com/DestroyedPresence/destroyed-presence-web.git
